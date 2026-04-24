@@ -1,2 +1,2 @@
 # -Log-Analyzer
-        Log Analyzer project (SRO)
+        Log Analyzer project 
